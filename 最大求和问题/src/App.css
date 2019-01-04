@@ -1,0 +1,16 @@
+.ipt {
+  display: inline-block;
+  width: 25rem;
+  height: 48px;
+  line-height: 20px;
+  box-sizing: border-box;
+  padding: 14px 1.2rem;
+  box-shadow: 2px 0 5px 0 #fff;
+  background: rgba(28,31,33,.06);
+  border-radius: 8px;
+  border: 0;
+  color: #1c1f21;
+  font-size: 1.1rem;
+  outline: none;
+  letter-spacing: .2rem;
+}
